@@ -1,8 +1,11 @@
-*{
+
+/* The first Train */
+
+ *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
+}/*
 body{
     background-color: brown;
     height: 100vh;
@@ -39,4 +42,19 @@ p{
     color: black;
     font-family: "Montserrat", sans-serif;
     font-weight: 00;
+} */
+
+/* Second one */
+/* body{
+    padding: 20px;
 }
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid black;
+    margin-top: 10px;
+} */
+
+
+/* Third one */
