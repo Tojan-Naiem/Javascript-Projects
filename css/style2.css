@@ -50,3 +50,41 @@ padding: 40px 35px;
 .card button img{
     width: 16px;
 }
+.weather .temp{
+    color: white;
+}
+.weather  h1{
+    font-size: 45px;
+
+}
+.weather h2{
+    margin-top: 10px;
+    font-size: 40px;
+    color: white;
+}
+.weather .details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+.weather .details .col{
+    display: flex;
+    align-items: center;
+}
+.weather .details .col img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.weather .details .col{
+    color: white;
+}
+.weather .details .col p:first-of-type{
+    font-size: 40px;
+}
+.weather .details .col p:last-of-type{
+    margin-top: 5px;
+}
